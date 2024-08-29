@@ -64,12 +64,7 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/zakiixesdev/",
         "repositories": [
-            "Portfolio",
-            "Genrealize",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "Mail-em",
-            "JAutoLayout"
+            "Portfolio-vercel"
         ]
     },
     "experience": {
