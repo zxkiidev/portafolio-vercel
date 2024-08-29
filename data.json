@@ -18,7 +18,7 @@
             {
                 "alt": "Github",
                 "icon": "github",
-                "link": "https://github.com/zakiixesdev"
+                "link": "https://github.com/zxkiidev"
             },
             {
                 "alt": "Email",
@@ -65,7 +65,7 @@
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/zakiixesdev/",
+        "baseURI": "https://api.github.com/repos/zxkiidev/",
         "repositories": [
             "portafolio-vercel"
         ]
