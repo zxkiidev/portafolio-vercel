@@ -3,9 +3,9 @@
     "landing": {
         "title": "Hi, I'm Zadquiel",
         "subtitles": [
-            "Beginner Full-Stack 🌐",
+            "Beginner BackEnd 🌐",
             "Game Developer 💻",
-            "Exploring cloud ☁️",
+            "Exploring Programming ☁️",
             "Beginner in Unity and Python ♾️",
             "Just getting started 📈"
         ],
@@ -16,7 +16,7 @@
                 "link": "https://www.linkedin.com/in/none/"
             },
             {
-                "alt": "GitHub",
+                "alt": "Github",
                 "icon": "github",
                 "link": "https://github.com/zakiixesdev"
             },
@@ -24,7 +24,6 @@
                 "alt": "Email",
                 "icon": "gmail",
                 "link": "mailto:riegatardioz@gmail.com"
-                "class": "email-link"
             }
         ]
     },
@@ -49,7 +48,7 @@
             "Vercel",
             "Bootstrap"
         ],
-        "Frameworks Backend": [
+        "Backend": [
             "Node.js",
             "Django",
             "FastAPI"
@@ -62,8 +61,7 @@
                 "icon": "microsoftazure"
             },
             "Firebase",
-            "Unity",
-            "Arduino"
+            "Unity"
         ]
     },
     "projects": {
