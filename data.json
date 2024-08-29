@@ -55,27 +55,14 @@
         ],
         "Backend, Database and Cloud": [
             "Node.js",
-            "Express",
             "FastAPI",
-            "MongoDB",
             "MySQL",
             "PostgreSQL",
             {
                 "alt": "Azure",
                 "icon": "microsoftazure"
             },
-            "Heroku",
             "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo",
-            "Android",
-            "Flutter"
         ]
     },
     "projects": {
