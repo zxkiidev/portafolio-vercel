@@ -70,54 +70,29 @@
     "experience": {
         "Work Experience": [
             {
-                "organization": "CloudDFN LLP",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
-            },
-            {
-                "organization": "NonceBlox Pvt. Ltd.",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2021-07-01",
-                "endDate": "2021-10-01",
-                "city": "New Delhi",
-                "state": "Delhi",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "https://www.nonceblox.com/ton3.png"
+                "organization": "None",
+                "role": "None",
+                "type": "None",
+                "startDate": "None",
+                "endDate": "None",
+                "city": "None",
+                "state": "None",
+                "country": "None",
+                "url": "",
+                "thumbnail": ""
             }
-        ],
         "Volunteer Experience": [
             {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
-            },
-            {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
+                "organization": "None",
+                "role": "None",
+                "type": "None",
+                "startDate": "None",
+                "endDate": "None",
+                "city": "None",
+                "state": "None",
+                "country": "None",
+                "url": "",
+                "thumbnail": ""
             }
         ]
     },
