@@ -39,6 +39,10 @@
                 "alt": "Cobol",
                 "icon": "fas fa-code"
             },
+            {
+                "alt": "Godot",
+                "icon": "https://seeklogo.com/images/G/godot-logo-FAAF8F6633-seeklogo.com.png"
+            },
             "HTML5",
             "CSS3"
         ],
