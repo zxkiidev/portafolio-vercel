@@ -53,17 +53,15 @@
             "Django",
             "FastAPI"
         ],
-        "Database": [
+        "Database and Cloud Tools": [
             "MySQL",
-            "PostgreSQL"
-        ],
-        "Cloud Tools": [
+            "PostgreSQL",
             {
                 "alt": "Azure",
                 "icon": "microsoftazure"
             },
             "Firebase"
-        ]
+        ],
     },
     "projects": {
         "baseURI": "https://api.github.com/repos/zakiixesdev/",
