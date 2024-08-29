@@ -29,15 +29,16 @@
     },
     "skills": {
         "Languages known": [
-            "TypeScript",
             "JavaScript",
             "Java",
             "C++",
             "Python",
             "HTML5",
             "CSS3",
-            "Kotlin",
-            "Dart"
+            {
+                "alt": "Pawno",
+                "icon": "https://avatars.githubusercontent.com/u/109897963?s=200&v=4"
+            }
         ],
         "Frontend": [
             "React",
