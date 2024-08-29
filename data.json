@@ -1,5 +1,5 @@
 {
-    "name": "ZadquielTardio",
+    "name": "Zadquiel Tardio",
     "landing": {
         "title": "Hi, I'm Zadquiel",
         "subtitles": [
@@ -10,19 +10,24 @@
         ],
         "professionalDetails": [
             {
-                "alt": "Linkedin",
+                "alt": "kaustubh-odak",
                 "icon": "linkedin",
-                "link": "https://www.linkedine.com/in/none/"
+                "link": "https://www.linkedin.com/in/kaustubh-odak/"
             },
             {
-                "alt": "GitHub",
+                "alt": "kausko",
+                "icon": "stackoverflow",
+                "link": "https://stackoverflow.com/users/15832433/kausko"
+            },
+            {
+                "alt": "kausko",
                 "icon": "github",
-                "link": "https://github.com/zakiixesdev"
+                "link": "https://github.com/kausko"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "riegatardioz@gmail.com"
+                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
             }
         ]
     },
