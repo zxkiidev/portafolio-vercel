@@ -1,5 +1,5 @@
 {
-    "name": "Portfolio - Languages ​​and projects",
+    "name": "Languages ​​and projects",
     "landing": {
         "title": "Hi, I'm Zadquiel",
         "subtitles": [
@@ -24,6 +24,7 @@
                 "alt": "Email",
                 "icon": "gmail",
                 "link": "mailto:riegatardioz@gmail.com"
+                "class": "email-link"
             }
         ]
     },
