@@ -35,7 +35,10 @@
             "CSharp",
             "C",
             "Python",
-            "COBOL",
+            {
+                "alt": "Cobol",
+                "icon": "fas fa-code"
+            },
             "HTML5",
             "CSS3"
         ],
