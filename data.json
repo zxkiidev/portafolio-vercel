@@ -32,13 +32,12 @@
             "JavaScript",
             "Java",
             "C++",
+            "C#",
+            "C",
             "Python",
+            "Cobol",
             "HTML5",
-            "CSS3",
-            {
-                "alt": "Pawno",
-                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKFvDp5GTVNt5SC2FuMmfLKpUjXT6h1QPGA&s"
-            }
+            "CSS3"
         ],
         "Frontend": [
             "React",
