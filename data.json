@@ -44,13 +44,9 @@
         ],
         "Frontend": [
             "React",
-            "Redux",
             "Next.js",
-            "Gatsby",
             "Netlify",
             "Vercel",
-            "Material-UI",
-            "antdesign",
             "Bootstrap"
         ],
         "Backend, Database and Cloud": [
@@ -66,7 +62,7 @@
         ]
     },
     "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
+        "baseURI": "https://api.github.com/repos/zakiixesdev/",
         "repositories": [
             "Portfolio",
             "Genrealize",
