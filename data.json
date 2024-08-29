@@ -11,24 +11,19 @@
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "Linkedin",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/none/"
             },
             {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
+                "alt": "GitHub",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/zakiixesdev"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "mailto:riegatardioz@gmail.com"
             }
         ]
     },
