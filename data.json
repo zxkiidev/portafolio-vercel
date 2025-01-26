@@ -43,11 +43,7 @@
             "MySQL",
             "Firebase",
             "VSCode",
-            "GIT",
-            {
-                "alt": "VM VirtualBox",
-                "icon": "virtualbox",
-            }
+            "GIT"
         ]
     },
     "projects": {
