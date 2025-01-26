@@ -29,20 +29,25 @@
     "skills": {
         "Languages known": [
             "Java",
+            "C",
             "C++",
             "CSharp",
             "Python",
             "COBOL"
         ],
-        "Frontend": [
-            "Vercel"
-        ],
-        "Backend": [
+        "Frontend / Backend": [
+            "Vercel",
             "Node.js"
         ],
-        "Database and Cloud Tools": [
+        "Database and Tools": [
             "MySQL",
-            "Firebase"
+            "Firebase",
+            "VSCode",
+            "GIT",
+            {
+                "alt": "VM VirtualBox",
+                "icon": "virtualbox",
+            }
         ]
     },
     "projects": {
