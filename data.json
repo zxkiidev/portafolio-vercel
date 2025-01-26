@@ -3,10 +3,9 @@
     "landing": {
         "title": "Hi, I'm Zadquiel",
         "subtitles": [
-            "Beginner BackEnd 🌐",
             "Game Developer 💻",
             "Exploring Programming ☁️",
-            "Beginner in Unity and Python ♾️",
+            "Studying Data Science and AI's ♾️",
             "Just getting started 📈"
         ],
         "professionalDetails": [
@@ -29,36 +28,21 @@
     },
     "skills": {
         "Languages known": [
-            "JavaScript",
             "Java",
             "C++",
             "CSharp",
             "Python",
-            "COBOL",
-            "HTML5",
-            "CSS3"
+            "COBOL"
         ],
         "Frontend": [
-            "React",
-            "Next.js",
-            "Netlify",
-            "Vercel",
-            "Bootstrap"
+            "Vercel"
         ],
         "Backend": [
-            "Node.js",
-            "Django",
-            "FastAPI"
+            "Node.js"
         ],
         "Database and Cloud Tools": [
             "MySQL",
-            "PostgreSQL",
-            {
-                "alt": "Azure",
-                "icon": "microsoftazure"
-            },
-            "Firebase",
-            "Unity"
+            "Firebase"
         ]
     },
     "projects": {
@@ -98,7 +82,7 @@
         ]
     },
     "about": {
-        "description": "I am a developer with solid experience in various programming languages, specializing in Computer Engineering. I am passionate about creating efficient applications and games, and I always strive to apply the best practices in software development and design.",
+        "description": "I am a developer with solid experience in various programming languages, specializing in Computer Engineering. I am passionate about creating efficient applications and games, and I always strive to apply the best practices in software development.",
         "picture": "/profile.JPG",
         "social": []
     },
